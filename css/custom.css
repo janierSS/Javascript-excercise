@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to right, #0558C4 0%, #21A3F3 100%);
+  background-size: cover;
+}
+
+#form-one {
+  max-width: 700px;
+}
+
+.hidden {
+  display: none;
+}
+
+.float-end {
+  margin-left: 10px;
+}
